@@ -1,0 +1,1 @@
+rotar n xa = drop n xa ++ take n xa
